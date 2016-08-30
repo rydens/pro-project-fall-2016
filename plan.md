@@ -1,9 +1,6 @@
 # SkilStak Pro Project Plan - Fall 2016
 
-*Text in italics is for explanation and can be deleted.*
-
-*Replace this text here with a general overview and idea of your
-project in detail. About a paragraph.*
+I am trying to get the SkilStak agario server to work, using (OgarUL)[https://github.com/AJS-development/Ogar-unlimited].
 
 ## Objectives
 
