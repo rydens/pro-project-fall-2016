@@ -1,7 +1,7 @@
 # SkilStak Pro Project Plan - Fall 2016
 
 I am trying to get the SkilStak agario server to work, using [OgarUL](https://github.com/AJS-development/Ogar-unlimited).
-This includes things such as a private and custom client.
+This includes things such as a private and custom [client](github.com/rydens/agario).
 
 ## Objectives
 
